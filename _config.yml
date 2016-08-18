@@ -6,9 +6,9 @@ color:
   saturation: 0.6508764009922743
   rhythmicContrast: 0.2770434853155166
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#F5F5F5'
+    - '#C2C2C2'
+    - '#959595'
+    - '#323232'
+    - '#CBAE67'
 name: Ervey.mx
