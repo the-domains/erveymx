@@ -1,3 +1,18 @@
+name: Ervey.mx
+opengraph:
+  appId: 'https://www.facebook.com/ervey.mx'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5716846
   brandStrength: 0.8387097
@@ -9,26 +24,11 @@ color:
     - '#C2C2C2'
     - '#F5F5F5'
   lightness: 0.8602151
-content_rating:
-  adult: false
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.6917562
 navigation:
   - name: instagram
     url: 'https://www.instagram.com/ervey.mx/'
     type: external
-layout_spectrum: 0
-typography_spectrum: 0.6917562
-opengraph:
-  appId: 'https://www.facebook.com/ervey.mx'
-name: Ervey.mx
+content_rating:
+  adult: false
+layout_spectrum: 0.1415771
