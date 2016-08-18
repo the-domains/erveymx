@@ -1,20 +1,20 @@
-typography_spectrum: 0.19842778542079031
+typography_spectrum: 0.4472867308650166
 content_rating:
   adult: false
 color:
-  brandStrength: 0.7380557772703469
-  lightness: 0.13878900394774973
-  saturation: 0.3827695557847619
-  rhythmicContrast: 0.32220642478205264
+  brandStrength: 0.5445378331933171
+  lightness: 0.9114468300249428
+  saturation: 0.37672804296016693
+  rhythmicContrast: 0.5888591664843261
   brandColors:
-    - '#FFFFFF'
-    - '#012A40'
-    - '#764944'
-    - '#B67C54'
-    - '#DBB67F'
+    - '#323232'
+    - '#CBAE67'
+    - '#959595'
+    - '#C2C2C2'
+    - '#F5F5F5'
 opengraph:
   appId: 'https://www.facebook.com/ervey.mx'
-layout_spectrum: 0.4726242597680539
+layout_spectrum: 0.25515664485283196
 name: Ervey.mx
 navigation:
   - name: instagram
