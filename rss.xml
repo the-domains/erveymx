@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ervey.mx]]></title>
+        <description><![CDATA[Ervey.mx]]></description>
+        <link>https://thegrid.ai/erveymx/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 00:56:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erveymx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/503aa4c0-d217-464f-87ba-69d49d5af3eb.jpg">]]></description>
+            <link>https://thegrid.ai/erveymx/4f6d3cbb-1507-479f-8185-b97458638efc/index.html</link>
+            <guid isPermaLink="false">4f6d3cbb-1507-479f-8185-b97458638efc</guid>
+            <pubDate>Thu, 18 Aug 2016 00:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac38d55-f517-4eb0-9964-fbc98cb230b2.jpg">]]></description>
+            <link>https://thegrid.ai/erveymx/ac8877f7-8960-4102-8115-1a9349e1cbc9/index.html</link>
+            <guid isPermaLink="false">ac8877f7-8960-4102-8115-1a9349e1cbc9</guid>
+            <pubDate>Thu, 18 Aug 2016 00:56:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
