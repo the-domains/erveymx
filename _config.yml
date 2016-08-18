@@ -1,5 +1,6 @@
-layout_spectrum: 0.6500714572612196
 typography_spectrum: 0.9564609010703862
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9978705008979887
   lightness: 0.7468888636212796
@@ -11,6 +12,9 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+opengraph:
+  appId: 'https://www.facebook.com/ervey.mx'
+layout_spectrum: 0.6500714572612196
 name: Ervey.mx
 navigation:
   - name: instagram
